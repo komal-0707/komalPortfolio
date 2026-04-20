@@ -12,7 +12,7 @@ const ResumeSection = () => {
               </div>
               <div className="resume-widget">
                 <div className="resume-item wow fadeInLeft" data-wow-delay=".4s">
-                  <div className="time">March 2022 - Present</div>
+                  <div className="time">March 2023 - Present</div>
                   <h3 className="resume-title">Flutter App developer</h3>
                   <div className="institute">AJEEVAN TECH</div>
                 </div>
@@ -40,7 +40,7 @@ const ResumeSection = () => {
                 </div>
                 <div className="resume-item wow fadeInRight" data-wow-delay=".7s">
                   <div className="time">2012</div>
-                  <h3 className="resume-title">Bachelor of Commerce (B.Com)</h3>
+                  <h3 className="resume-title">Graduation Complete</h3>
                   <div className="institute">Veer Narmad South Gujarat University</div>
                 </div>
               </div>
